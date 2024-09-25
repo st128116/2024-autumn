@@ -10,5 +10,3 @@ int main(int argc, char* argv[])
 	printf("%d", s + d + e);
 	return EXIT_SUCCESS;
 }
-
-// https://acmp.ru/asp/do/index.asp?main=task&id_course=1&id_section=1&id_topic=27&id_problem=155
